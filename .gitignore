@@ -1,0 +1,8 @@
+__pycache__
+.venv
+.vscode
+.cache
+*.json
+*.jp*g
+*.env
+*.m3u*
